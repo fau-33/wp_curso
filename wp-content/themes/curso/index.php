@@ -8,6 +8,7 @@
 	</head>
 	<body <?php body_class();?>>
 		<p>Este é um parágrafo</p>
+		<p>Mais um páragrafo</p>
 
 		<header>
 			<div class="barra-topo">
